@@ -4,4 +4,5 @@ module Findable
     @@songs.detect{|a| a.name == name}
   end
   
+  
 end
